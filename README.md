@@ -110,10 +110,6 @@ Developed a Flask-based automation system using Gmail & Sheets APIs to opt-in/ou
 <!-- Most Used Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaravananNadanasabesan&layout=compact&hide_border=true)
 
-### 🧪 Additional Technologies I Use
-YAML · JSON · Bash/Shell · Terraform · Dockerfile
-
-
 
 ---
 
