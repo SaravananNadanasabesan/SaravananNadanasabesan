@@ -102,14 +102,17 @@ Developed a Flask-based automation system using Gmail & Sheets APIs to opt-in/ou
 
 ---
 
-
 ## 📊 GitHub Stats & Activity
 
-<!-- Overall Stats -->
+<!-- GitHub Stats -->
 ![Saravanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaravananNadanasabesan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
 
-<!-- Top Languages -->
+<!-- Most Used Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaravananNadanasabesan&layout=compact&hide_border=true)
+
+### 🧪 Additional Technologies I Use
+YAML · JSON · Bash/Shell · Terraform · Dockerfile
+
 
 
 ---
