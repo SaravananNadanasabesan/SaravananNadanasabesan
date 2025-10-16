@@ -4,14 +4,14 @@
 # 👋 Hey there! I'm **Saravanan Nadanasabesan**
 
 💼 **Cloud & DevOps Engineer | AWS | GCP | Azure | CI/CD | Automation**  
-📍 Oshawa, Ontario    📧 saravanasabesan@gmail.com    📱 519-501-9250  
+📱 519-501-9250  
 
 ---
 
 ## 🚀 About Me
 I’m an IT Operations Engineer with 6+ years of experience at global IT giants like **Amazon** and **Cognizant**, supporting Fortune 500 clients including UnitedHealth Group and Amazon’s retail marketplaces.  
 My passion lies in **cloud transformation, DevOps automation, and secure, scalable architecture**.  
-Currently pursuing a **Post-Graduate Certificate in Cloud Computing (Durham College)** and available for **Winter 2026 Co-op (420 hours)**.
+Currently pursuing a **Post-Graduate Certificate in Cloud Computing (Durham College)**.
 
 ---
 
@@ -35,7 +35,7 @@ Currently pursuing a **Post-Graduate Certificate in Cloud Computing (Durham Coll
 | **Databases & Analytics** | SQL (Star Schema, Joins) · Power BI · Excel (Dashboards) |
 | **Version Control & Collaboration** | Git · GitHub · Jira · Confluence |
 | **OS & Tools** | Linux · Windows · VS Code · Postman |
-
+| **Automation** | Make.com |
 ---
 
 ## 🧰 Tech Badges
@@ -110,7 +110,7 @@ Developed a Flask-based automation system using Gmail & Sheets APIs to opt-in/ou
 ---
 
 ## 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saravanan-nadanasabesan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/saravanan-nadanasabesan-987129107)
 [![Email](https://img.shields.io/badge/Email-Contact-informational?logo=gmail&logoColor=white)](mailto:saravanasabesan@gmail.com)
 
 > _Actively seeking **Cloud & DevOps Co-op opportunities for Winter 2026 (Jan – Apr)**_
