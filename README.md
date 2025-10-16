@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-I’m an IT Operations Engineer with 6+ years of experience at global IT giants like **Amazon** and **Cognizant**, supporting Fortune 500 clients including UnitedHealth Group and Amazon’s retail marketplaces.  
+I’m an IT Operations Engineer with 6+ years of experience at global IT giants like **Amazon**, **Athenahealth**, and **Cognizant**, supporting Fortune 500 clients including UnitedHealth Group and Amazon’s retail marketplaces.  
 My passion lies in **cloud transformation, DevOps automation, and secure, scalable architecture**.  
 Currently pursuing a **Post-Graduate Certificate in Cloud Computing (Durham College)**.
 
