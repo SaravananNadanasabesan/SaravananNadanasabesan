@@ -114,7 +114,7 @@ Developed a Flask-based automation system using Gmail & Sheets APIs to opt-in/ou
 ---
 
 ## 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](/in/saravanan-nadanasabesan-987129107)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/saravanan-nadanasabesan-987129107/)
 [![Email](https://img.shields.io/badge/Email-Contact-informational?logo=gmail&logoColor=white)](mailto:saravanasabesan@gmail.com)
 
 > _Actively seeking **Cloud & DevOps Co-op opportunities for Winter 2026 (Jan – Apr)**_
