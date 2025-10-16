@@ -102,10 +102,11 @@ Developed a Flask-based automation system using Gmail & Sheets APIs to opt-in/ou
 
 ---
 
-## 📊 GitHub Stats
-![Saravanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaravananNadanasabesan&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaravananNadanasabesan&layout=compact&hide_border=true)
+## 📊 GitHub Stats & Activity
+
+![Saravanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaravananNadanasabesan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=SaravananNadanasabesan&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaravananNadanasabesan&layout=compact&hide_border=true)
 
 ---
 
