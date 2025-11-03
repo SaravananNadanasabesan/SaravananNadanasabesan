@@ -65,7 +65,7 @@ Currently pursuing a **Post-Graduate Certificate in Cloud Computing (Durham Coll
 Automated CI/CD workflow using **Cloud Build**, **Artifact Registry**, and **Cloud Run**, triggered by GitHub commits.  
 - Implemented serverless pipeline for containerized apps with secure IAM roles.  
 - Ensured repeatable build → deploy lifecycle with Cloud Run versioning.  
-🔗 [View Repo](https://github.com/SaravananNadanasabesan/GCP-CloudRun-CICD)
+🔗 [View Repo](https://github.com/SaravananNadanasabesan/saravanan-101013057)
 
 ---
 
