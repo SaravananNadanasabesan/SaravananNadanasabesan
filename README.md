@@ -73,14 +73,14 @@ Automated CI/CD workflow using **Cloud Build**, **Artifact Registry**, and **Clo
 Designed a production-ready EKS cluster using Terraform, Docker, and Helm.  
 - Provisioned modular IaC including VPC, subnets, RDS, and RBAC.  
 - Integrated CI/CD and GitHub source control for automated deployments.  
-🔗 [View Repo](https://github.com/SaravananNadanasabesan/AWS-EKS-Project)
+🔗 [View Repo](https://github.com/SaravananNadanasabesan/AWS_EKS-Project)
 
 ---
 
 ### 💌 **SOHA Agent Email Automation**
 Developed a Flask-based automation system using Gmail & Sheets APIs to opt-in/out agents and send automated emails via Make.com.  
 - Enabled OAuth 2.0 authentication and real-time Google Sheets updates.  
-🔗 [View Repo](https://github.com/SaravananNadanasabesan/SOHA-Agent-Automation)
+🔗 [View Repo](https://github.com/SaravananNadanasabesan/SOHA_Automation)
 
 ---
 
